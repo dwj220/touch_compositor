@@ -66,4 +66,4 @@ API reference: [Shizuku UserService guide](https://github.com/RikkaApps/Shizuku-
 
 ## Debugging coordinates
 
-The debug build includes `CoordinateProbeActivity`, a simple full-screen touch target for checking injected Display 0 coordinates on real devices.
+The debug build includes `Coordin  ateProbeActivity`, a simple full-screen touch target for checking injected Display 0 coordinates on real devices.
