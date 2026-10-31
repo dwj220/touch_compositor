@@ -1,6 +1,6 @@
 # Touch Compositor
 
-Android multi-touch composition and macro playback without Accessibility `dispatchGesture()`.
+Android multi-touch composition and macro playback without  Accessibility `dispatchGesture()`.
 
 The app binds a Shizuku UserService running as Android `shell` (or root). That service reads physical touch input from evdev, composes physical and macro pointers, then injects one unified `MotionEvent` stream back into Display 0. Wireless debugging setup belongs to Shizuku.
 
